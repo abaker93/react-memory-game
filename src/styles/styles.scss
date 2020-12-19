@@ -1,0 +1,44 @@
+@import './reset';
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Pacifico&display=swap');
+
+body {
+    background-image: url('../img/pattern.png');
+    color: #481D24;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header {
+    background-color: #481D24;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+.scoreboard {
+    background-color: #FA9E87;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.gameboard {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    .card {
+        margin: 10px;
+        cursor: pointer;
+        border: 15px solid #FFFFFF;
+        box-shadow: 8px 8px 3px 0px rgba(0, 0, 0, 0.2);
+    
+        img {
+            width: 100%;
+        }
+    
+    }
+
+}
