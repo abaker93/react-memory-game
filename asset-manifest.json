@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-memory-game/static/css/main.0df52038.chunk.css",
+    "main.js": "/react-memory-game/static/js/main.b9666478.chunk.js",
+    "main.js.map": "/react-memory-game/static/js/main.b9666478.chunk.js.map",
+    "runtime-main.js": "/react-memory-game/static/js/runtime-main.e1210647.js",
+    "runtime-main.js.map": "/react-memory-game/static/js/runtime-main.e1210647.js.map",
+    "static/js/2.a250cfc1.chunk.js": "/react-memory-game/static/js/2.a250cfc1.chunk.js",
+    "static/js/2.a250cfc1.chunk.js.map": "/react-memory-game/static/js/2.a250cfc1.chunk.js.map",
+    "index.html": "/react-memory-game/index.html",
+    "static/css/main.0df52038.chunk.css.map": "/react-memory-game/static/css/main.0df52038.chunk.css.map",
+    "static/js/2.a250cfc1.chunk.js.LICENSE.txt": "/react-memory-game/static/js/2.a250cfc1.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/react-memory-game/static/media/pattern.11136d88.png",
+    "static/media/pup1.b1bf0ce3.jpg": "/react-memory-game/static/media/pup1.b1bf0ce3.jpg",
+    "static/media/pup10.f828e8bc.jpg": "/react-memory-game/static/media/pup10.f828e8bc.jpg",
+    "static/media/pup11.cfb56078.jpg": "/react-memory-game/static/media/pup11.cfb56078.jpg",
+    "static/media/pup12.179bd56f.jpg": "/react-memory-game/static/media/pup12.179bd56f.jpg",
+    "static/media/pup2.d3c41d01.jpg": "/react-memory-game/static/media/pup2.d3c41d01.jpg",
+    "static/media/pup3.b3be7a75.jpg": "/react-memory-game/static/media/pup3.b3be7a75.jpg",
+    "static/media/pup4.d27ed25b.jpg": "/react-memory-game/static/media/pup4.d27ed25b.jpg",
+    "static/media/pup5.dc96d513.jpg": "/react-memory-game/static/media/pup5.dc96d513.jpg",
+    "static/media/pup6.08cafef7.jpg": "/react-memory-game/static/media/pup6.08cafef7.jpg",
+    "static/media/pup7.dd22d24d.jpg": "/react-memory-game/static/media/pup7.dd22d24d.jpg",
+    "static/media/pup8.48a5ab93.jpg": "/react-memory-game/static/media/pup8.48a5ab93.jpg",
+    "static/media/pup9.dd91255f.jpg": "/react-memory-game/static/media/pup9.dd91255f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1210647.js",
+    "static/js/2.a250cfc1.chunk.js",
+    "static/css/main.0df52038.chunk.css",
+    "static/js/main.b9666478.chunk.js"
+  ]
+}
