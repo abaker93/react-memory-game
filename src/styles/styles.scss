@@ -5,6 +5,7 @@ body {
     background-image: url('../img/pattern.png');
     color: #481D24;
     font-family: 'Merriweather', serif;
+    font-size: 20px;
 }
 
 h1 {
@@ -23,11 +24,22 @@ h1 {
     background-color: #FA9E87;
     display: grid;
     grid-template-columns: repeat(2, auto);
+    justify-content: center;
+    margin-bottom: 100px;
+    position: sticky;
+    top: 0;
+
+    p {
+        padding: 20px 50px;
+    }
+
 }
 
 .gameboard {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    max-width: 1000px;
+    margin: 0 auto;
 
     .card {
         margin: 10px;
